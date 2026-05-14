@@ -61,7 +61,8 @@ We also build tools that make SymVerse easier to integrate and operate:
 
 | Repository | Description |
 |---|---|
-| [`Document`](https://github.com/symverse-lab/Document) | Technical documents and ecosystem references |
+| [`Document`](https://github.com/symverse-lab/V3) | SYMVERSE V3.0 Technical documents and ecosystem references |
+| [`Old Document`](https://github.com/symverse-lab/Document) | Old Technical documents and ecosystem references |
 | [`sym-web3js`](https://github.com/symverse-lab/sym-web3js) | JavaScript library for SymVerse integration |
 | [`sym-netstats`](https://github.com/symverse-lab/sym-netstats) | Network monitoring and node statistics |
 | [`symgw`](https://github.com/symverse-lab/symgw) | Gateway and service-side integration components |
